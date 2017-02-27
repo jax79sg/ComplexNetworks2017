@@ -1,0 +1,233 @@
+DZA, Algeria
+AGO, Angola
+EGY, Egypt
+BGD, Bangladesh
+NER, Niger
+LIE, Liechtenstein
+NAM, Namibia
+VEN, Venezuela
+BGR, Bulgaria
+BOL, Bolivia
+GHA, Ghana
+PAK, Pakistan
+CPV, Cape Verde
+JOR, Jordan
+LBR, Liberia
+LBY, Libya
+MYS, Malaysia
+PRI, Puerto Rico
+MYT, Mayotte
+PRK, Korea Democratic People’s R. (Pyongyang)
+PSE, Occupied Palestinian Territory
+TZA, Tanzania
+BWA, Botswana
+KHM, Cambodia
+TTO, Trinidad and Tobago
+PRY, Paraguay
+HKG, Hong Kong Special Adm. Region of China
+SAU, Saudi Arabia
+LBN, Lebanon
+SVN, Slovenia
+BFA, Burkina Faso
+SVK, Slovakia
+MRT, Mauritania
+HRV, Croatia
+CHL, Chile
+CHN, China
+KNA, Saint Kitts-Nevis
+JAM, Jamaica
+SMR, San Marino
+GIB, Gibraltar
+DJI, Djibouti
+GIN, Guinea
+FIN, Finland
+URY, Uruguay
+VAT, Holy See (Vatican City)
+SYC, Seychelles
+NPL, Nepal
+LAO, Laos
+YEM, Yemen
+PHL, Philippines
+ZAF, South Africa
+KIR, Kiribati
+TGO, Togo
+VIR, United States Virgin Islands
+SYR, Syria
+MAC, Macao Special Adm. Region of China
+NIC, Nicaragua
+MLT, Malta
+KAZ, Kazakhstan
+TCA, Turks and Caicos Islands
+PYF, French Polynesia
+NIU, Niue
+DMA, Dominica
+GBR, United Kingdom
+BEN, Benin
+GUF, French Guiana
+BEL, Belgium
+DEU, Germany
+GUM, Guam
+LKA, Sri Lanka
+FLK, Falkland Islands (Malvinas)
+PCN, Pitcairn
+GUY, Guyana
+CRI, Costa Rica
+COK, Cook Islands
+MAR, Morocco
+ROM, Romania
+MNP, Northern Mariana Islands
+LSO, Lesotho
+HUN, Hungary
+TKM, Turkmenistan
+SUR, Suriname
+NLD, Netherlands
+BMU, Bermuda
+TCD, Chad
+GEO, Georgia
+MNG, Mongolia
+MHL, Marshall Islands
+MTQ, Martinique
+BLZ, Belize
+NFK, Norfolk Island
+MMR, Myanmar
+AFG, Afghanistan
+BDI, Burundi
+VGB, British Virgin Islands
+BLR, Belarus
+GRD, Grenada
+TKL, Tokelau
+GRC, Greece
+GRL, Greenland
+SHN, Saint Helena
+AND, Andorra
+MOZ, Mozambique
+TJK, Tajikistan
+THA, Thailand
+HTI, Haiti
+MEX, Mexico
+ANT, Netherlands Antilles
+ZWE, Zimbabwe
+LCA, Saint Lucia
+IND, India
+LVA, Latvia
+BTN, Bhutan
+VCT, Saint Vincent and the Grenadines
+VNM, Viet Nam
+NOR, Norway
+CZE, Czech Republic
+TMP, East Timor (Timor-Leste)
+ATG, Antigua and Barbuda
+FJI, Fiji
+HND, Honduras
+MUS, Mauritius
+DOM, Dominican Republic
+LUX, Luxembourg
+ISR, Israel
+FSM, Micronesia
+PER, Peru
+REU, Runion
+IDN, Indonesia
+VUT, Vanuatu
+MKD, Macedonia
+COD, Congo Democratic R. of the (Kinshasa)
+COG, Congo People’s R. of the (Brazzaville)
+ISL, Iceland
+GLP, Guadeloupe
+ETH, Ethiopia
+COM, Comoros
+COL, Columbia
+NGA, Nigeria
+PRT, Portugal
+MDA, Moldova
+STP, Sao Tome and Principe
+MDG, Madagascar
+ECU, Ecuador
+SEN, Senegal
+ESH, Western Sahara
+MDV, Maldives
+ASM, American Samoa
+SPM, Saint Pierre and Miquelon
+SRB, Serbia
+FRA, France
+LTU, Lithuania
+RWA, Rwanda
+ZMB, Zambia
+GMB, Gambia
+WLF, Wallis and Futuna Islands
+FRO, Faeroe Islands
+GTM, Guatemala
+DNK, Denmark
+MSR, Montserrat
+AUS, Australia
+AUT, Austria
+SJM, Svalbard and Jan Mayen Islands
+IMY, Isle of Man
+EUR, Europe
+PLW, Palau
+KEN, Kenya
+TUR, Turkey
+ALB, Albania
+OMN, Oman
+TUV, Tuvalu
+ALA, Aland Islands
+BRN, Brunei Darussalam
+TUN, Tunisia
+RUS, Russia
+MTN, Montenegro
+BRB, Barbados
+BRA, Brazil
+CIV, Cte d’Ivoire (Ivory Coast)
+GNQ, Equatorial Guinea
+USA, United States
+QAT, Qatar
+WSM, Samoa
+AZE, Azerbaijan
+GNB, Guinea-Bissau
+SWZ, Swaziland
+TON, Tonga
+CAN, Canada
+UKR, Ukraine
+KOR, Korea Republic of (Seoul)
+AIA, Anguilla
+CAF, Central African Republic
+CHE, Switzerland
+CYP, Cyprus
+BIH, Bosnia and Herzegovina
+SGP, Singapore
+SOM, Somalia
+UZB, Uzbekistan
+CMR, Cameroon
+POL, Poland
+KWT, Kuwait
+ERI, Eritrea
+GAB, Gabon
+CYM, Cayman Islands
+ARE, United Arab Emirates
+EST, Estonia
+MWI, Malawi
+ESP, Spain
+IRQ, Iraq
+SLV, El Salvador
+MLI, Mali
+IRL, Ireland
+IRN, Iran
+ABW, Aruba
+SLE, Sierra Leone
+PAN, Panama
+SDN, Sudan
+SLB, Solomon Islands
+NZL, New Zealand
+MCO, Monaco
+ITA, Italy
+JPN, Japan
+KGZ, Kyrgyzstan
+UGA, Uganda
+NCL, New Caledonia
+PNG, Papua New Guinea
+ARG, Argentina
+SWE, Sweden
+BHS, Bahamas
+BHR, Bahrain
+ARM, Armenia
+NRU, Nauru
+CUB, Cuba

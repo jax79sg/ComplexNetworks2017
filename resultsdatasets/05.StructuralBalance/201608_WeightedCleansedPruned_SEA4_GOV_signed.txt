@@ -1,0 +1,3 @@
+IDN,SGP,-1.0
+IDN,MYS,1.0
+SGP,MYS,1.0

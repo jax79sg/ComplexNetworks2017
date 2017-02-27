@@ -1,0 +1,64 @@
+If you are using Windows, please view using WORDPAD software instead of NOTEPAD software.
+
+Key sections of programme code
+All codes referenced here are in graph.py under sourcecodes folder.
+
+
+
+——- DATA PROCESSING —--
+#Loading 2016xx.csv or 2016xx_GOV.csv file to remove records with invalid country codes
+ctyarray=loadUNCountryList('UNCountryCode.txt')
+cleanseEdgeData(csvfile=csvfile,cleansedcsvfile=cleansedcsvfile, ctyarray=ctyarray)
+
+
+
+—— Small World ——
+#Generate a random graph with specified no of nodes and edges.
+rDG=create_randomgraph(198,6989, True)
+saveGraphAsCSV(rDG, 'rDG.txt’)
+
+
+
+—— Degree Distribution ——
+#To plot the degree distribution 
+Input: cleansedcsvfile = ‘Final201608edge.txt’
+G=nx.read_edgelist(cleansedcsvfile,delimiter=',',create_using=nx.DiGraph())
+plot_degree_distribution_bined(graph=G, loglog=False, edgetype='in', binsize=13, normed=True, overlayfit=False)
+plot_degree_distribution_bined(graph=G, loglog=False, edgetype='out', binsize=13, normed=True, overlayfit=False)
+plot_degree_distribution_bined(graph=G, loglog=True, edgetype='in', binsize=20, normed=True, overlayfit=True)
+plot_degree_distribution_bined(graph=G, loglog=True, edgetype='out', binsize=20, normed=True, overlayfit=True)
+>> loglog (Log-log scale)
+>> edgetype (in, out or undirected)
+>> binsize (No of bins)
+>> normed (Normalised y axis on plot)
+>> overlayfit (Try to see if can fit powerlaw)
+
+
+—— Opinion Reciprocal ——
+#CHECK % of IN NODE = OUT NODES
+dG = nx.read_weighted_edgelist('201608_WeightedCleansed.csv’, delimiter=',', create_using=nx.DiGraph())
+checkSuccessorCorrelation(dG)
+checkPredecessorCorrelation(dG)
+
+
+——- Structural Balance ——-
+#Loading 201601 to 201612 and prune it to global top countries 
+#Generate the signed graph for each month 
+counter=['01','02','03','04','05','06','07','08','09','10','11','12']
+focus=['USA','GBR','CHN','RUS']
+balancecheckoneyear(counter=counter,focus=focus,nameofpruned='WORLD4',prefixoriginal='_GOV')
+>> counter (Months)
+>> Focus (Prune to which nodes?)
+>> nameofpruned (Will be prefixed to output filename)
+>> prefixoriginal (Will be prefixed to output filename)
+
+
+
+#Loading 201601 to 201612 and prune it to SEA main 3 countries 
+#Generate the signed graph for each month 
+counter=['01','02','03','04','05','06','07','08','09','10','11','11']
+focus=['SGP','MYS','IDN']
+balancecheckoneyear(counter=counter,focus=focus,nameofpruned='SEA4',prefixoriginal='_GOV')
+
+
+
